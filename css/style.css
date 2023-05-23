@@ -415,11 +415,11 @@ footer .credit a {
 /* mobile */
 @media (max-width: 450px) {
   html {
-    font-size: 55%;
+    font-size: 55%;               
   }
 
   .navbar .navbar-nav.active {
     right: 0;
   }
-
+  
 }
